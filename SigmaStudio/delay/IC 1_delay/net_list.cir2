@@ -1,0 +1,8 @@
+0 ICSigma100In1 O_C0_A0_P2_out Link1
+1 RegReadAlgADCIn1 O_C57_A0_P1_out Link0
+2 RegReadAlgADCIn2 O_C116_A0_P1_out Link6
+3 SingleCtrlSplit1 I_C74_A0_P1_in Link1 O_C74_A0_P2_out Link3 O_C74_A0_P3_out Link2
+4 VoltageControlledDelay1940NoZipAlgwLimit1 I_C62_A0_P1_in Link2 I_C62_A0_P2_in Link0 O_C62_A0_P3_out Link4
+5 ICSigma100Out1 I_C72_A0_P1_in Link3
+6 ExtSWGainDB1 I_C108_A0_P1_in Link6 I_C108_A0_P2_in Link4 O_C108_A0_P3_out Link5
+7 ICSigma100Out2 I_C41_A0_P1_in Link5

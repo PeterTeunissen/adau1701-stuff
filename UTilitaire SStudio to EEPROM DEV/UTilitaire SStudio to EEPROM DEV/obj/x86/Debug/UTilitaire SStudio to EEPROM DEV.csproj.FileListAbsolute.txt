@@ -1,0 +1,52 @@
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\UTilitaire SStudio to EEPROM DEV.exe
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\UTilitaire SStudio to EEPROM DEV.pdb
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\UTilitaire SStudio to EEPROM DEV.exe
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\UTilitaire SStudio to EEPROM DEV.pdb
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe.config
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.pdb
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.exe
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.pdb
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe.config
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.exe
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.pdb
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.pdb
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe.config
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.exe
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.pdb
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.pdb
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.form2.resources
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.form2.resources
+J:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ELEKTOR INTERNSHIP\Dev C#\UTilitaire SStudio to EEPROM DEV\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe.config
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.exe
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\bin\Debug\SStudio to EEPROM Utility.pdb
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\UTilitaire SStudio to EEPROM DEV.csprojResolveAssemblyReference.cache
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\UTilitaire SStudio to EEPROM DEV.csproj.GenerateResource.Cache
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.exe
+C:\work\130232_DSP_board\UTilitaire SStudio to EEPROM DEV\obj\x86\Debug\SStudio to EEPROM Utility.pdb
